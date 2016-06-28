@@ -1,0 +1,3 @@
+# CollectionViewInCollectionViewCell
+
+Embed CollectionView in CollectionViewCell
